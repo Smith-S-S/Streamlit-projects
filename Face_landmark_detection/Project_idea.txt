@@ -1,0 +1,6 @@
+In this project we build an website 
+Using streamlit
+It have 3 pages 
+1- About us page
+2- Detecting the face in image
+3- Detecting the face in video
